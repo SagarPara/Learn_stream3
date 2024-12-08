@@ -27,7 +27,11 @@ with col3:
 
 
 ticker_df = ticker_data.history(period="1d", start=start_date, end=end_date)
+<<<<<<< HEAD
 #Input date _ end code Hi
+=======
+#Input date _ end code
+>>>>>>> ce2e64c1a3b0ad418f17f21231b5821ba1cbf57e
 
 
 
