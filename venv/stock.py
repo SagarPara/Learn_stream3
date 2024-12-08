@@ -27,7 +27,7 @@ with col3:
 
 
 ticker_df = ticker_data.history(period="1d", start=start_date, end=end_date)
-#Input date _ end code
+#Input date _ end code Hi
 
 
 
